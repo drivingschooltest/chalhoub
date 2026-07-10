@@ -746,7 +746,7 @@ html[lang="en"] .review-text{
 }
 
 .hero-logo img {
-  height: 200px;           /* desktop size - increased */
+  height: 180px;           /* desktop size - increased */
   width: auto;
   display: block;
 }
