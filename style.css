@@ -779,7 +779,7 @@ html[lang="en"] .review-text{
 
 @media (max-width: 380px){
   .landing-hero{ padding-top:250px; }
-  .landing-phone{ font: size 22px;px; }
+  .landing-phone{ font-size:22px; }
 }
 
 /* =========================
